@@ -23,4 +23,4 @@ We build AI agents, MCP servers and automations that run inside a client's own s
 | [llm-gateway-demo](https://github.com/northkeellabs/llm-gateway-demo) | One LLM endpoint with per-key access, budgets and fallback |
 | [verified-lead-list-demo](https://github.com/northkeellabs/verified-lead-list-demo) | A verified B2B lead list with a source on every row |
 
-Recorded runs and results: [northkeellabs.com/work](https://northkeellabs.com/work). Contact: hello@northkeellabs.com
+Recorded runs and results: [northkeellabs.com/work](https://northkeellabs.com/work). Contact: contact@northkeellabs.com
